@@ -1,1 +1,2 @@
 An operating system works as a way for the user and the computer hardware to interface. This means that the purpose of the OS is to provide a platform that a human user can navigate easily and efficently. This interfacing has come a long way since the days of DOS.
+An OS is software that controls the allocation of hardware use inside the computer. This OS program should also ensure the proper working of the computer and stop user programs from interfering. The OS monitors overall system performance and wellness.
