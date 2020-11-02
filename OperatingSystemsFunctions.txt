@@ -1,0 +1,1 @@
+An operating system works as a way for the user and the computer hardware to interface. This means that the purpose of the OS is to provide a platform that a human user can navigate easily and efficently. This interfacing has come a long way since the days of DOS.
